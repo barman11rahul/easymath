@@ -16,6 +16,8 @@ def main():
         print("{} is palindrome: {}".format(n,p.is_palindrome(n)))
         n=10
         print("{} is palindrome: {}".format(n,p.is_palindrome(n)))
+        n=11
+        print("{} is palindrome: {}".format(n,p.is_palindrome(n)))
         return 0
 
 if __name__ == "__main__":
